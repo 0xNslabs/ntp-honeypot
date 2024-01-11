@@ -37,6 +37,19 @@ The server logs all NTP interactions in ntp_honeypot.log, providing detailed acc
 ![Simple NTP Honeypot in Action](https://raw.githubusercontent.com/0xNslabs/ntp-honeypot/main/PoC.png)
 *This image demonstrates the Simple NTP Honeypot Server in action, capturing real-time NTP requests and client interactions.*
 
+## Other Simple Honeypot Services
+
+Check out the other honeypot services for monitoring various network protocols:
+
+- [DNS Honeypot](https://github.com/0xNslabs/dns-honeypot) - Monitors DNS interactions.
+- [FTP Honeypot](https://github.com/0xNslabs/ftp-honeypot) - Simulates an FTP server.
+- [LDAP Honeypot](https://github.com/0xNslabs/ldap-honeypot) - Mimics an LDAP server.
+- [NTP Honeypot](https://github.com/0xNslabs/ntp-honeypot) - Monitors Network Time Protocol interactions.
+- [PostgreSQL Honeypot](https://github.com/0xNslabs/postgresql-honeypot) - Simulates a PostgreSQL database server.
+- [SIP Honeypot](https://github.com/0xNslabs/sip-honeypot) - Monitors SIP (Session Initiation Protocol) interactions.
+- [SSH Honeypot](https://github.com/0xNslabs/ssh-honeypot) - Emulates an SSH server.
+- [TELNET Honeypot](https://github.com/0xNslabs/telnet-honeypot) - Simulates a TELNET server.
+
 ## Security and Compliance
 - **Caution**: Utilize this honeypot in secure and controlled environments, primarily for educational and research purposes.
 - **Compliance**: Ensure that deployment aligns with local and international legal and ethical guidelines.
